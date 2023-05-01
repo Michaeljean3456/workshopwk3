@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    justify-content: center;
+    text-align: center;
+}
+.container{
+    border: 2px solid;
+    width: fit-content;
+    height: 300px;
+    background-color: white;
+ 
+}
